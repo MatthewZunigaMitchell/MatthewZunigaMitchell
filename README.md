@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me
+I am a graduate of Western Governors University with a Bachelor of Science in Data Analytics.
+
+## Skills
+💻 Languages: Python, SQL, R
+🗄️ Databases: MySQL, PostgreSQL
+📊 Data Visualization: Tableau, Excel
+
 
 <!--
 **MatthewZunigaMitchell/MatthewZunigaMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
