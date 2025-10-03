@@ -4,7 +4,7 @@ I am a graduate of Western Governors University with a Bachelor of Science in Da
 ## Skills
 💻 Languages: Python, SQL, R
 
-🗄️ Databases: MySQL, PostgreSQL
+🗄️ Databases: MySQL, PostgreSQL, BigQuery
 
 📊 Data Visualization: Tableau, Excel
 
