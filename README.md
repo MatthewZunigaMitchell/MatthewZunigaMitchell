@@ -9,7 +9,8 @@ I am a graduate of Western Governors University with a Bachelor of Science in Da
 📊 Data Visualization: Tableau, Excel
 
 ## Favorite Projects
-[Obesity Classification](https://github.com/MatthewZunigaMitchell/Obesity_Classification_Factors)
+[Obesity Classification_Python](https://github.com/MatthewZunigaMitchell/Obesity_Classification_Factors)  
+[Layoffs_Project_SQL](https://github.com/MatthewZunigaMitchell/layoffs_portfolio_project)
 
 
 <!--
