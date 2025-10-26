@@ -11,7 +11,7 @@ I am a graduate of Western Governors University with a Bachelor of Science in Da
 ## Favorite Projects
 [Obesity Classification_Python](https://github.com/MatthewZunigaMitchell/Obesity_Classification_Factors)  
 [Layoffs_Project_SQL](https://github.com/MatthewZunigaMitchell/layoffs_portfolio_project)  
-[The_Friends_TV_Show_Analysis_Python_and_Tableau](https://matthewzunigamitchell.github.io/The_Friends_Wikipedia_Analysis/)
+[The_Friends_TV_Show_Analysis_Python_and_Tableau](https://github.com/MatthewZunigaMitchell/The_Friends_Wikipedia_Analysis)
 
 
 <!--
